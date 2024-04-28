@@ -4,26 +4,14 @@
 
 ## Descripción 
 
-Breve descripción del proyecto, objetivos y funcionalidades principales. 
+**A continuación voy a enlazar mi repositorio llamado *retogit*
 
 ## Características 
 
-- Característica 1
-- Característica 2
-- Característica 3
-- 
-## Instalación 
+- Se trata del reto número 2.
+- La asignatura es Entornos de desarrollo. 
+- Nuestro profesor es [crifigar](https://github.com/crufigar) OJO! Es amante de los gatitos :smiley_cat:
+  
+## Enlace a mi repositorio
 
-Instrucciones para instalar y configurar el proyecto.
-
-## Uso 
-
-Guía rápida sobre cómo utilizar el proyecto y ejemplos de código. 
-
-## Contribución 
-
-Información sobre cómo contribuir al proyecto, directrices para enviar pull requests y reportar issues. 
-
-## Licencia 
-
-Licencia bajo la cual se distribuye el proyecto.
+Aquí podrás encontrar el enlace a mi repositorio llamado *retogit*.
