@@ -1,20 +1,18 @@
-# Bienvenid@s a mi rincón en GitHub :congratulations:
+# Bienvenid@s a mi Rincón en GitHub! :congratulations:
 
-![Imagen de Portada](recursos/portada.jpg) 
+![Imagen de Portada](recursos/portada.jpg)
 
-## Descripción :eyes:
+## Acerca de Mí
 
-**A continuación voy a enlazar mi repositorio llamado *retogit* **
+¡Hola! Soy Yago Menéndez, un apasionado del desarrollo de software. Actualmente cursando Desarrollo de Aplicaciones Multiplataforma. Puedes conocer más sobre mi trayectoria profesional en mi perfil de [LinkedIn](https://www.linkedin.com/in/ymenendez/).
 
-## Características :mag_right:
+## Novedades
+Aquí iré publicando las novedades del canal
 
-- Se trata del reto número 2.
-- La asignatura es Entornos de desarrollo. 
-- Nuestro profesor es [crufigar](https://github.com/crufigar) OJO! Es amante de los gatitos :smiley_cat:
-  
-## Enlace a mi repositorio del Reto 2 :blush:
+## Repositorios
 
-Aquí podrás encontrar el enlace a mi repositorio llamado [*retogit*](https://github.com/ymvs84/retogit) y en el que podrás encontrar código JAVA. 
+Aquí iré actualizando los diferentes repositorios públicos.
 
-![Imagen de JAVA](recursos/java.jpg)
+## Conectemos
 
+Estoy siempre abierto a nuevas oportunidades y colaboraciones. Si deseas saber más sobre mis proyectos o discutir posibles colaboraciones, no dudes en contactarme a través de [LinkedIn](https://www.linkedin.com/in/ymenendez/).
