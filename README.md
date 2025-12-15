@@ -1,7 +1,7 @@
 # Hola, soy Yago Menéndez 👋
 
 ### Backend Developer | Cloud & Automation Specialist
-Ingeniero de Software con +20 años de experiencia técnica. Especializado en **Desarrollo Backend (Python/Java)**, **Automatización de Procesos** y **Arquitecturas Cloud**.
+Ingeniero de Software con +2 años de experiencia técnica. Especializado en **Desarrollo Backend (Python/Java)**, **Automatización de Procesos** y **Arquitecturas Cloud**.
 
 Actualmente finalizando el **Grado en Ingeniería Informática** (UAX) mientras diseño soluciones escalables en AWS y Azure.
 
