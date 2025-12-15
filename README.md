@@ -1,24 +1,25 @@
 # Hola, soy Yago Menéndez 👋
 
 ### Backend Developer | Cloud & Automation Specialist
-Desarrollador Backend enfocado en **Python y Java**, con una sólida trayectoria en soporte IT y automatización de procesos. Actualmente cursando el **Grado en Ingeniería Informática** y especializado en soluciones Cloud (AWS/Azure) y Serverless.
+Ingeniero de Software con +20 años de experiencia técnica. Especializado en **Desarrollo Backend (Python/Java)**, **Automatización de Procesos** y **Arquitecturas Cloud**.
 
-- 🔭 Actualmente trabajando en **Automatización con Python/PowerShell** y desarrollo web con Django/Flask.
-- 📚 Estudiante de Ingeniería Informática en UAX.
-- ☁️ Certificado en **AWS Developer Associate** y **Azure Developer**.
-- 🎯 Objetivo: Crear arquitecturas escalables y optimizar flujos de trabajo mediante código limpio.
+Actualmente finalizando el **Grado en Ingeniería Informática** (UAX) mientras diseño soluciones escalables en AWS y Azure.
+
+- 🔭 **Focus Actual:** Arquitecturas Limpias (Clean Architecture), Serverless & Data Pipelines.
+- ☁️ **Certificaciones:** AWS Developer Associate & Azure Developer [2025].
+- 🎯 **Objetivo:** Transformar procesos complejos en código eficiente, mantenible y robusto.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Tech Stack & Herramientas
 
-**Languages & Frameworks**
+**Backend & Core**
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </p>
 
 **Cloud & DevOps**
@@ -31,22 +32,28 @@ Desarrollador Backend enfocado en **Python y Java**, con una sólida trayectoria
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Proyectos Destacados (Portfolio)
 
-**🔧 XML to CSV ETL Pipeline (Python)** Utility de ingeniería de datos para procesar lotes de ficheros XML financieros (ISO-20022). Diseño modular robusto con validación estricta de tipos y manejo de namespaces complejos.  
-*Stack: Python 3.10, Clean Architecture, Unittest, Batch Processing.* [👉 Ver código](https://github.com/ymvs84/xml-to-csv-etl-pipeline)
+**1. 🔧 XML to CSV Data Pipeline (Python)**
+Sistema de ingeniería de datos para procesamiento por lotes (ETL) de ficheros financieros ISO-20022.
+* **Highlights:** Clean Architecture, Type Hinting Estricto, Manejo de Namespaces complejos.
+* **Tech:** Python 3.10, Unittest, Batch Processing.
+* [👉 Ver Código](https://github.com/ymvs84/xml-to-csv-etl-pipeline)
 
-**🤿 DiveLogApp (Django)**
-Aplicación web completa para registro de inmersiones con geolocalización GIS y API RESTful.
-*Stack: Django 5, PostgreSQL, Bootstrap 5, GIS.*
+**2. 🌦️ WeatherApp Pro (Python/Qt)**
+Aplicación de escritorio refactorizada desde cero usando patrones de diseño profesionales.
+* **Highlights:** Arquitectura por Capas (Services/UI/Config), Gestión segura de secretos (.env), Mocking en tests.
+* **Tech:** Python, PySide6, Requests, Pytest.
+* [👉 Ver Código](https://github.com/ymvs84/WeatherApp)
 
-**📚 Gestión de Biblioteca (Java)**
-Sistema de escritorio CRUD para gestión integral de biblioteca.
-*Stack: Java, JavaFX, MySQL.*
+**3. 🤿 DiveLogApp (Django)**
+Plataforma web completa para registro de inmersiones con geolocalización GIS.
+* **Tech:** Django 5, REST Framework, PostgreSQL, Bootstrap 5.
 
-**☁️ WeatherApp (Flask)**
-Servicio web para consulta meteorológica consumiendo API externa (OpenWeatherMap).
-*Stack: Python, Flask, REST API.*
+**4. 📚 Sistema de Gestión de Biblioteca (Java)**
+Aplicación de escritorio CRUD para gestión integral de préstamos.
+* **Tech:** Java, JavaFX, MySQL.
+* [👉 Ver Código](https://github.com/ymvs84/Biblioteca)
 
 ---
 
