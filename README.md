@@ -33,6 +33,9 @@ Desarrollador Backend enfocado en **Python y Java**, con una sólida trayectoria
 
 ### 🚀 Featured Projects
 
+**🔧 XML to CSV ETL Pipeline (Python)** Utility de ingeniería de datos para procesar lotes de ficheros XML financieros (ISO-20022). Diseño modular robusto con validación estricta de tipos y manejo de namespaces complejos.  
+*Stack: Python 3.10, Clean Architecture, Unittest, Batch Processing.* [👉 Ver código](https://github.com/ymvs84/xml-to-csv-etl-pipeline)
+
 **🤿 DiveLogApp (Django)**
 Aplicación web completa para registro de inmersiones con geolocalización GIS y API RESTful.
 *Stack: Django 5, PostgreSQL, Bootstrap 5, GIS.*
