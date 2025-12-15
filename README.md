@@ -1,11 +1,11 @@
 # Hola, soy Yago Menéndez 👋
 
 ### Backend Developer | Cloud & Automation Specialist
-Desarrollador Backend enfocado en **Python y Java**, con una sólida trayectoria en soporte IT y automatización de procesos. [cite_start]Actualmente cursando el **Grado en Ingeniería Informática** [cite: 35] [cite_start]y especializado en soluciones Cloud (AWS/Azure) y Serverless[cite: 22, 23].
+Desarrollador Backend enfocado en **Python y Java**, con una sólida trayectoria en soporte IT y automatización de procesos. Actualmente cursando el **Grado en Ingeniería Informática** y especializado en soluciones Cloud (AWS/Azure) y Serverless.
 
-- [cite_start]🔭 Actualmente trabajando en **Automatización con Python/PowerShell** y desarrollo web con Django/Flask[cite: 28, 48].
-- [cite_start]📚 Estudiante de Ingeniería Informática en UAX[cite: 35].
-- [cite_start]☁️ Certificado en **AWS Developer Associate** y **Azure Developer**[cite: 39, 40].
+- 🔭 Actualmente trabajando en **Automatización con Python/PowerShell** y desarrollo web con Django/Flask.
+- 📚 Estudiante de Ingeniería Informática en UAX.
+- ☁️ Certificado en **AWS Developer Associate** y **Azure Developer**.
 - 🎯 Objetivo: Crear arquitecturas escalables y optimizar flujos de trabajo mediante código limpio.
 
 ---
@@ -35,15 +35,15 @@ Desarrollador Backend enfocado en **Python y Java**, con una sólida trayectoria
 
 **🤿 DiveLogApp (Django)**
 Aplicación web completa para registro de inmersiones con geolocalización GIS y API RESTful.
-[cite_start]*Stack: Django 5, PostgreSQL, Bootstrap 5, GIS.* [cite: 60, 61, 62]
+*Stack: Django 5, PostgreSQL, Bootstrap 5, GIS.*
 
 **📚 Gestión de Biblioteca (Java)**
-Sistema de escritorio CRUD para gestión integral de préstamos y usuarios.
-[cite_start]*Stack: Java, JavaFX, MySQL.* [cite: 65, 66]
+Sistema de escritorio CRUD para gestión integral de biblioteca.
+*Stack: Java, JavaFX, MySQL.*
 
 **☁️ WeatherApp (Flask)**
 Servicio web para consulta meteorológica consumiendo API externa (OpenWeatherMap).
-[cite_start]*Stack: Python, Flask, REST API.* [cite: 69, 70]
+*Stack: Python, Flask, REST API.*
 
 ---
 
