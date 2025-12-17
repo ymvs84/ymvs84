@@ -1,7 +1,7 @@
 # Hola, soy Yago Menéndez 👋
 
 ### Senior Backend Engineer | Cloud & AI Specialist
-Ingeniero de Software con +20 años de experiencia técnica. Especializado en **Desarrollo Backend (Java/Python/C#)**, **Arquitecturas Cloud (Azure/AWS)** e **Integración de IA**.
+Ingeniero de Software con +2 años de experiencia técnica. Especializado en **Desarrollo Backend (Java/Python/C#)**, **Arquitecturas Cloud (Azure/AWS)** e **Integración de IA**.
 
 Transformo problemas complejos en soluciones escalables, aplicando **Clean Architecture** y principios **SOLID**.
 
