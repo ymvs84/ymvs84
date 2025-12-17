@@ -1,31 +1,31 @@
 # Hola, soy Yago Menéndez 👋
 
-### Backend Developer | Cloud & Automation Specialist
-Ingeniero de Software con +2 años de experiencia técnica. Especializado en **Desarrollo Backend (Python/Java)**, **Automatización de Procesos** y **Arquitecturas Cloud**.
+### Senior Backend Engineer | Cloud & AI Specialist
+Ingeniero de Software con +20 años de experiencia técnica. Especializado en **Desarrollo Backend (Java/Python/C#)**, **Arquitecturas Cloud (Azure/AWS)** e **Integración de IA**.
 
-Actualmente finalizando el **Grado en Ingeniería Informática** (UAX) mientras diseño soluciones escalables en AWS y Azure.
+Transformo problemas complejos en soluciones escalables, aplicando **Clean Architecture** y principios **SOLID**.
 
-- 🔭 **Focus Actual:** Arquitecturas Limpias (Clean Architecture), Serverless & Data Pipelines.
-- ☁️ **Certificaciones:** AWS Developer Associate & Azure Developer [2025].
-- 🎯 **Objetivo:** Transformar procesos complejos en código eficiente, mantenible y robusto.
+- 🔭 **Focus Actual:** Integración de Servicios Cognitivos (AI) & Enterprise Software Design.
+- ☁️ **Certificaciones:** AWS Developer Associate & Azure Developer [En progreso].
+- 🎯 **Objetivo:** Crear software robusto, mantenible y de alto impacto.
 
 ---
 
 ### 🛠️ Tech Stack & Herramientas
 
-**Backend & Core**
+**Lenguajes & Core**
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 </p>
 
 **Cloud & DevOps**
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
@@ -34,26 +34,28 @@ Actualmente finalizando el **Grado en Ingeniería Informática** (UAX) mientras 
 
 ### 🚀 Proyectos Destacados (Portfolio)
 
-**1. 🔧 XML to CSV Data Pipeline (Python)**
+**1. 🧠 Azure AI Services Solutions (C# .NET 8)**
+Solución modular de arquitectura limpia para consumir servicios cognitivos de Azure (Vision, Speech, Language).
+* **Highlights:** Inyección de Dependencias (DI), Patrón Servicios, Azure SDKs.
+* **Tech:** .NET 8, C#, Azure AI, JSON.
+* [👉 Ver Código](https://github.com/ymvs84/AIServicesSolutions)
+
+**2. 📚 Sistema de Gestión de Biblioteca (Java)**
+Aplicación empresarial de escritorio con persistencia de datos y patrón MVC.
+* **Highlights:** DAO Pattern, Gestión de Conexiones Singleton, JavaFX UI.
+* **Tech:** Java 17, MySQL, Maven, Lombok.
+* [👉 Ver Código](https://github.com/ymvs84/Biblioteca)
+
+**3. 🔧 XML to CSV Data Pipeline (Python)**
 Sistema de ingeniería de datos para procesamiento por lotes (ETL) de ficheros financieros ISO-20022.
-* **Highlights:** Clean Architecture, Type Hinting Estricto, Manejo de Namespaces complejos.
-* **Tech:** Python 3.10, Unittest, Batch Processing.
+* **Highlights:** Type Hinting Estricto, Manejo de Namespaces complejos, Unittest.
+* **Tech:** Python 3.10, Batch Processing.
 * [👉 Ver Código](https://github.com/ymvs84/xml-to-csv-etl-pipeline)
 
-**2. 🌦️ WeatherApp Pro (Python/Qt)**
-Aplicación de escritorio refactorizada desde cero usando patrones de diseño profesionales.
-* **Highlights:** Arquitectura por Capas (Services/UI/Config), Gestión segura de secretos (.env), Mocking en tests.
+**4. 🌦️ WeatherApp Pro (Python/Qt)**
+Aplicación de escritorio refactorizada con arquitectura por capas y gestión segura de secretos.
 * **Tech:** Python, PySide6, Requests, Pytest.
 * [👉 Ver Código](https://github.com/ymvs84/WeatherApp)
-
-**3. 🤿 DiveLogApp (Django)**
-Plataforma web completa para registro de inmersiones con geolocalización GIS.
-* **Tech:** Django 5, REST Framework, PostgreSQL, Bootstrap 5.
-
-**4. 📚 Sistema de Gestión de Biblioteca (Java)**
-Aplicación de escritorio CRUD para gestión integral de préstamos.
-* **Tech:** Java, JavaFX, MySQL.
-* [👉 Ver Código](https://github.com/ymvs84/Biblioteca)
 
 ---
 
