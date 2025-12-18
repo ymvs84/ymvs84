@@ -28,34 +28,36 @@ Transformo problemas complejos en soluciones escalables, aplicando **Clean Archi
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
 </p>
 
 ---
 
 ### 🚀 Proyectos Destacados (Portfolio)
 
-**1. 🧠 Azure AI Services Solutions (Polyglot: C# & Python)**
-Solución modular de arquitectura limpia para consumir servicios cognitivos de Azure (Vision, Speech, Language). Implementada nativamente en dos ecosistemas para demostrar versatilidad.
-* **Highlights:** Inyección de Dependencias (.NET) vs OOP/Type Hinting (Python), Patrón Servicios.
+**1. 🤿 DiveLog App | Enterprise SaaS Platform**
+Plataforma web integral para gestión de buceo desplegada en producción. Arquitectura híbrida preparada para escalabilidad.
+* **Highlights:** Django REST Framework, PostgreSQL, Docker, Railway Deployment, OAuth2.
+* **Estado:** 🟢 En Producción (Live Demo).
+* [👉 Ver Showcase & Arquitectura](https://github.com/ymvs84/DiveLogApp-Showcase) | [🔗 Ver Demo en Vivo](https://divelogapp-production.up.railway.app/)
+
+**2. 🧠 Azure AI Services Solutions (Polyglot: C# & Python)**
+Solución modular de arquitectura limpia para consumir servicios cognitivos de Azure (Vision, Speech, Language). Implementada nativamente en dos ecosistemas.
+* **Highlights:** Inyección de Dependencias (.NET), OOP/Type Hinting (Python), Patrón Servicios.
 * **Tech:** .NET 8, Python 3.10+, Azure AI SDKs.
 * [👉 Ver Versión .NET](https://github.com/ymvs84/AIServicesSolutions) | [👉 Ver Versión Python](https://github.com/ymvs84/AIServicesSolutionsPython)
 
-**2. 📚 Sistema de Gestión de Biblioteca (Java)**
+**3. 📚 Sistema de Gestión de Biblioteca (Java)**
 Aplicación empresarial de escritorio con persistencia de datos y patrón MVC.
 * **Highlights:** DAO Pattern, Gestión de Conexiones Singleton, JavaFX UI.
 * **Tech:** Java 17, MySQL, Maven, Lombok.
 * [👉 Ver Código](https://github.com/ymvs84/Biblioteca)
 
-**3. 🔧 XML to CSV Data Pipeline (Python)**
+**4. 🔧 XML to CSV Data Pipeline (Python)**
 Sistema de ingeniería de datos para procesamiento por lotes (ETL) de ficheros financieros ISO-20022.
 * **Highlights:** Type Hinting Estricto, Manejo de Namespaces complejos, Unittest.
 * **Tech:** Python 3.10, Batch Processing.
 * [👉 Ver Código](https://github.com/ymvs84/xml-to-csv-etl-pipeline)
-
-**4. 🌦️ WeatherApp Pro (Python/Qt)**
-Aplicación de escritorio refactorizada con arquitectura por capas y gestión segura de secretos.
-* **Tech:** Python, PySide6, Requests, Pytest.
-* [👉 Ver Código](https://github.com/ymvs84/WeatherApp)
 
 ---
 
