@@ -34,11 +34,11 @@ Transformo problemas complejos en soluciones escalables, aplicando **Clean Archi
 
 ### 🚀 Proyectos Destacados (Portfolio)
 
-**1. 🧠 Azure AI Services Solutions (C# .NET 8)**
-Solución modular de arquitectura limpia para consumir servicios cognitivos de Azure (Vision, Speech, Language).
-* **Highlights:** Inyección de Dependencias (DI), Patrón Servicios, Azure SDKs.
-* **Tech:** .NET 8, C#, Azure AI, JSON.
-* [👉 Ver Código](https://github.com/ymvs84/AIServicesSolutions)
+**1. 🧠 Azure AI Services Solutions (Polyglot: C# & Python)**
+Solución modular de arquitectura limpia para consumir servicios cognitivos de Azure (Vision, Speech, Language). Implementada nativamente en dos ecosistemas para demostrar versatilidad.
+* **Highlights:** Inyección de Dependencias (.NET) vs OOP/Type Hinting (Python), Patrón Servicios.
+* **Tech:** .NET 8, Python 3.10+, Azure AI SDKs.
+* [👉 Ver Versión .NET](https://github.com/ymvs84/AIServicesSolutions) | [👉 Ver Versión Python](https://github.com/ymvs84/AIServicesSolutionsPython)
 
 **2. 📚 Sistema de Gestión de Biblioteca (Java)**
 Aplicación empresarial de escritorio con persistencia de datos y patrón MVC.
